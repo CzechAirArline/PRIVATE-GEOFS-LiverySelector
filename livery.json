@@ -4654,6 +4654,13 @@
                     ]
                 },
                 {
+                    "name": "ČeskoMoravskoSlezské",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/CzechAirArline/PRIVATE-GEOFS-LiverySelector/main/liveries/773/b777-300erCozsko.png"
+                    ]
+                },
+                {
                     "name": "Southwind Airlines",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
