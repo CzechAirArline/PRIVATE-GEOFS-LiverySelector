@@ -2735,6 +2735,10 @@
                     "texture": ["https://raw.githubusercontent.com/FreedomAirways/GEOFS-LiverySelector/main/liveries/boeing_b737-200/Boeing%20737-200%20British%20Airtours.jpg"]
                 },
                 {
+                    "name": "Česko",
+                    "texture": ["https://raw.githubusercontent.com/CzechAirArline/PRIVATE-GEOFS-LiverySelector/main/liveries/boeing_b737-200/b732OKKDSs.png"]
+                },
+                {
                     "name": "Chrono Aviation",
                     "texture": ["https://i.ibb.co/pPm47Px/chronoaviation.png"]
                 },
